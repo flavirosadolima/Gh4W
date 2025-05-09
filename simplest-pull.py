@@ -1,0 +1,1 @@
+# usando VS Code para commit no github ao clonar checkout-branch-CLI
